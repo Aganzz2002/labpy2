@@ -1,1 +1,3 @@
-# Latihan Python
+# Langkah-Langkah penggunaan python
+
+
